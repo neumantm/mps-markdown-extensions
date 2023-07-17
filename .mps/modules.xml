@@ -2,7 +2,9 @@
 <project version="4">
   <component name="MPSProject">
     <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/de.neumanntm.mps.markdown.extensions.internallinks/de.neumanntm.mps.markdown.extensions.internallinks.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/solutions/mps-markdown-extensions.build/mps-markdown-extensions.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/sandbox/sandbox.msd" folder="" />
     </projectModules>
   </component>
   <component name="ProjectModuleManager">
